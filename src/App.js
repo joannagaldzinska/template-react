@@ -1,7 +1,7 @@
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 
 function App() {
-  return <div className="App"></div>;
+  return <div className="App">MY APP</div>;
 }
 
 export default App;
